@@ -7,6 +7,7 @@
 <h1 align="center">Hi,there I am Freshta Majidi </h1>
 <h3 align="center">A passionate frontend developer </h3>
 
+
 <img   align="right" width="400"  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="freshtam" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshtam&label=Profile%20views&color=0e75b6&style=flat" alt="freshtam" /> </p>
