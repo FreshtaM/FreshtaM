@@ -1,5 +1,5 @@
 
-<img   src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+
 
 ### Hi there 👋
 
@@ -35,3 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshtam&show_icons=true&locale=en" alt="freshtam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshtam&" alt="freshtam" /></p>
+
+
+
+
+
+<img   src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
