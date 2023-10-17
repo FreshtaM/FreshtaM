@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **majedyfreshta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11W3FyE9M5LJKLoeyAqGIihmb8XRYWuVJ/view?pli=1](https://drive.google.com/file/d/11W3FyE9M5LJKLoeyAqGIihmb8XRYWuVJ/view?pli=1)
+- 📄 Know about my experiences     [Click here ](https://drive.google.com/file/d/11W3FyE9M5LJKLoeyAqGIihmb8XRYWuVJ/view?pli=1)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
