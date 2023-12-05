@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/freshta-majidi-b1b252255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/freshta-majidi-b1b252255/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@majedyfreshta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@majedyfreshta" height="30" width="40" /></a>
-<a href="www.youtube.com/@freshtamajedy1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freshta majedy" height="30" width="40" /></a>
+<a href="https://youtube.com/@freshtamajedy1708?si=LXRbBIrXE9PMGP06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freshta majedy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
